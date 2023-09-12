@@ -1,2 +1,4 @@
-languageCode = "en-us"
-title = "My New Netlify Static CMS Hugo Site"
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.115.2"
